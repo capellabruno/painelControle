@@ -1,0 +1,7 @@
+{
+  "name": "painelControle",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
